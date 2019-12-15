@@ -3,3 +3,4 @@
 /ghc-mod*
 /cabal.project.local
 /result*
+/stack.yaml.lock
