@@ -2,3 +2,4 @@
 /dist*
 /ghc-mod*
 /cabal.project.local
+/result*
