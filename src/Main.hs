@@ -21,7 +21,7 @@ import           Database.SQLite.Simple           (Connection, open)
 import           DB
 import           Network.Wai
 import           Network.Wai.Handler.Warp         (run)
-import           Servant
+import           Servant hiding (Tagged)
 import           Servant.API
 import           Servant.Server.Experimental.Auth
 import           Types
